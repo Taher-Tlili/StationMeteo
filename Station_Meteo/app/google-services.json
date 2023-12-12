@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "621886714882",
+    "firebase_url": "https://stationmeteo-33707-default-rtdb.firebaseio.com",
+    "project_id": "stationmeteo-33707",
+    "storage_bucket": "stationmeteo-33707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621886714882:android:9081a1c00ae38ad760231b",
+        "android_client_info": {
+          "package_name": "com.example.station_meteo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1A9sqzUQtj-OoLejcKMfj_FVk_Dz4s08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
